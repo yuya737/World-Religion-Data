@@ -221,5 +221,5 @@ server <- function(input, output){
 }
 
 
-# Create Shiny app ----
+# Create Shiny app -----
 shinyApp(ui = ui, server = server)
